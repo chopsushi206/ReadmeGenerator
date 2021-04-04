@@ -2,10 +2,10 @@
   ## Table of Contents
 
   * [Description](#description)
-  * [Installation](#installation_instructions)
+  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contribution_guidelines)
+  * [Contributing](#contribution)
   * [Tests](#tests)
   * [Questions](#questions)
 
