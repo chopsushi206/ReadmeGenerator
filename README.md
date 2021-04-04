@@ -39,4 +39,4 @@
   * [E-mail](mailto:lihua.anderson@gmail.com)
 
 
-  [Go to Top](#table_of_contents)
+  [Go to Top](#TOP)

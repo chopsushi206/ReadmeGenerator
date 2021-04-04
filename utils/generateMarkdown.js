@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   * [E-mail](mailto:${data.email})
 
 
-  [Go to Top](#table_of_contents)
+  [Go to Top](#TOP)
 `;
 }
 
