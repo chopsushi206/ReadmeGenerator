@@ -5,7 +5,7 @@
   * [Installation](#Installation-Instructions)
   * [Usage](#usage)
   * [License](#licenses)
-  * [Contributing](#contribution%20guidelines)
+  * [Contributing](#contribution-guidelines)
   * [Tests](#tests)
   * [Questions](#questions)
 
