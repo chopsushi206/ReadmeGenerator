@@ -2,7 +2,7 @@
   ## Table of Contents
 
   * [Description](#description)
-  * [Installation](#installation%20instructions)
+  * [Installation](#Installation%20Instructions)
   * [Usage](#usage)
   * [License](#licenses)
   * [Contributing](#contribution%20guidelines)
