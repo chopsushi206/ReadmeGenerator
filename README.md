@@ -1,18 +1,18 @@
 # README Generator;
   ## Table of Contents
 
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [License](#license)
-  [Questions](#questions)
+  -[Description](#description)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[Contributing](#contributing)
+  -[Tests](#tests)
+  -[License](#license)
+  -[Questions](#questions)
 
 
   ## Description
 
-  Automatically generates a README.md file when user inputes project information
+  Automatically generates a README.md file when user inputs project information
 
   ## Installation Instructions
 
@@ -20,7 +20,7 @@
   
   ## Usage
 
-  As a user I want to quickly generat a README file for a new project
+  As a user I want to quickly generate a README file for a new project
 
   ## Licenses
 

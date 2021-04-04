@@ -16,13 +16,13 @@ function generateMarkdown(data) {
   return `# ${data.projectName}
   ## Table of Contents
 
-  [Description](##Description)
-  [Installation](##Installation Instructions)
-  [Usage](##Usage)
-  [Contributing](##Contribution Guidlines)
-  [Tests](#tests)
-  [License](#license)
-  [Questions](#questions)
+  -[Description](##Description)
+  -[Installation](##Installation Instructions)
+  -[Usage](##Usage)
+  -[Contributing](##Contribution Guidlines)
+  -[Tests](##Tests)
+  -[License](##Licenses)
+  -[Questions](##Questions)
 
 
   ## Description
