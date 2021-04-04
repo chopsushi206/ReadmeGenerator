@@ -16,13 +16,13 @@ function generateMarkdown(data) {
   return `# ${data.projectName}
   ## Table of Contents
 
-  -[Description](##Description)
-  -[Installation](##Installation Instructions)
-  -[Usage](##Usage)
-  -[Contributing](##Contribution Guidlines)
-  -[Tests](##Tests)
-  -[License](##Licenses)
-  -[Questions](##Questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 
   ## Description
@@ -52,6 +52,9 @@ function generateMarkdown(data) {
   For answers to any other questions please contact the project developer:
   [Github](https://github.com/${data.userName})
   [E-mail](mailto:${data.email})
+
+
+  [Go to Top](#${data.projectName})
 `;
 }
 
