@@ -1,6 +1,13 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) { }
+function renderLicenseBadge(data) { 
+  console.log(data.license);
+  if (data.license !== null) {
+    return `[![License](https://img.shields.io/badge/License-${data.license}-brightgreen.svg)](https://opensource.org/licenses/${data.license})`
+  } else {
+    return ""
+  }
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -14,13 +21,14 @@ function renderLicenseSection(license) { }
 function generateMarkdown(data) {
   console.log(data.projectName);
   return `# ${data.projectName}
-  ## Table of Contents
+  ## Table of Content
+  ${renderLicenseBadge()}
 
   * [Description](#description)
-  * [Installation](#installation_instructions)
+  * [Installation](#installation-instructions)
   * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contribution_guidelines)
+  * [License](#licenses)
+  * [Contributing](#contribution-guidelines)
   * [Tests](#tests)
   * [Questions](#questions)
 

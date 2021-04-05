@@ -47,7 +47,13 @@ const questions = () => {
             type: 'input',
             name: 'email',
             message: 'What is your e-mail address?'
-        }
+        },
+        {
+            type: 'list',
+            name: 'license',
+            message: 'Select a license to include with your project.',
+            choices: ['Apache 2.0', 'MIT', 'MPL 2.0', '']
+        },
     ])
 };
 
