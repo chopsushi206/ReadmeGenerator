@@ -5,7 +5,7 @@ function renderLicenseBadge(data) {
   if (data.license !== null) {
     return `[![License](https://img.shields.io/badge/License-${data.license}-brightgreen.svg)](https://opensource.org/licenses/${data.license})`
   } else {
-    return ""
+    return ''
   }
 }
 
@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   console.log(data.projectName);
   return `# ${data.projectName}
   ## Table of Content
-  ${renderLicenseBadge()}
+  ${renderLicenseBadge(data)}
 
   * [Description](#description)
   * [Installation](#installation-instructions)
