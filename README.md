@@ -1,6 +1,6 @@
-# dkjlkfd
+# README Generator
+  [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
   ## Table of Content
-  [![License](https://img.shields.io/badge/License-MPL 2.0-brightgreen.svg)](https://opensource.org/licenses/MPL 2.0)
 
   * [Description](#description)
   * [Installation](#installation-instructions)
@@ -13,31 +13,33 @@
 
   ## Description
 
-  kldsldkjs
+  Automatically generates a README.md file based on user input
 
   ## Installation Instructions
 
-  sadlksjdlskdj
+  User must install inquirer first in the terminal using "npm install inquirer" and then program can be run through terminal using "node index.js"
   
   ## Usage
 
-  dsalkdjslkdj
+  As a user I want to automatically generate a new readme for a new program
 
   ## Licenses
 
+  This project is using the [MIT](https://opensource.org/licenses/MIT) license.
+
   ## Contribution Guidelines
 
-  sdsdjljsla
+  Please contact developer to contribute
 
   ## Tests
 
-  dsslkdjla
+  None
   
   ## Questions
   
   For answers to any other questions please contact the project developer:
-  * [Github](https://github.com/sadlksdj)
-  * [E-mail](mailto:skjdkjsd)
+  * [Github](https://github.com/chopsushi206)
+  * [E-mail](mailto:lihua.anderson@gmail.com)
 
 
   [Back to Top](#TOP)
